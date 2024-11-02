@@ -32,6 +32,6 @@ estudiante 3: Jesus Goyeneche
 
 usuario_github: Jg0206
 
-mail: 
+mail: Jesus.goyeneche@upb.edu.co
 
 
